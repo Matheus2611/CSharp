@@ -1,0 +1,101 @@
+﻿<Window x:Class="LocadoraWpf.Views.Frm.frmReservaCarro"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LocadoraWpf.Views.Frm"
+        mc:Ignorable="d"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        Title="Reserva de Carros" Height="450" Width="800" WindowStartupLocation="CenterScreen">
+
+    <Grid>
+
+        <Image Source="/Assets/fusca.jpg" Height="448" VerticalAlignment="Top" Margin="-58,-21,-54,-8" RenderTransformOrigin="0.5,0.5">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="-1"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+
+        </Image>
+        <Grid>
+            <Grid VerticalAlignment="Bottom" Margin="273,0,294,193" Height="127">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="118*"/>
+                    <ColumnDefinition Width="107*"/>
+                </Grid.ColumnDefinitions>
+                <Label Content="Reservar Carro" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="77,-82,-96,0" Foreground="FloralWhite" FontSize="18" Width="126" RenderTransformOrigin="0.107,0.5" Grid.Column="1"/>
+                <StackPanel VerticalAlignment="Center" Margin="15,-48,15,-29" Height="204" Grid.ColumnSpan="2"/>
+                <DatePicker Background="FloralWhite" Name="dtReserva" materialDesign:HintAssist.Hint="Data da Reserva" Margin="45,-33,-143,127" Height="33" Grid.Column="1"/>
+                <ComboBox Background="FloralWhite" Name="cboHoraReserva" Margin="45,10,-143,75" materialDesign:HintAssist.Hint="Horario da Reserva" Style="{StaticResource MaterialDesignFloatingHintComboBox}" Height="42" RenderTransformOrigin="0.5,0.5" Grid.Column="1" >
+                    <ComboBoxItem>1:00</ComboBoxItem>
+                    <ComboBoxItem>2:00</ComboBoxItem>
+                    <ComboBoxItem>3:00</ComboBoxItem>
+                    <ComboBoxItem>4:00</ComboBoxItem>
+                    <ComboBoxItem>5:00</ComboBoxItem>
+                    <ComboBoxItem>6:00</ComboBoxItem>
+                    <ComboBoxItem>7:00</ComboBoxItem>
+                    <ComboBoxItem>8:00</ComboBoxItem>
+                    <ComboBoxItem>9:00</ComboBoxItem>
+                    <ComboBoxItem>10:00</ComboBoxItem>
+                    <ComboBoxItem>11:00</ComboBoxItem>
+                    <ComboBoxItem>12:00</ComboBoxItem>
+                    <ComboBoxItem>13:00</ComboBoxItem>
+                    <ComboBoxItem>14:00</ComboBoxItem>
+                    <ComboBoxItem>15:00</ComboBoxItem>
+                    <ComboBoxItem>16:00</ComboBoxItem>
+                    <ComboBoxItem>17:00</ComboBoxItem>
+                    <ComboBoxItem>18:00</ComboBoxItem>
+                    <ComboBoxItem>19:00</ComboBoxItem>
+                    <ComboBoxItem>20:00</ComboBoxItem>
+                    <ComboBoxItem>21:00</ComboBoxItem>
+                    <ComboBoxItem>22:00</ComboBoxItem>
+                    <ComboBoxItem>23:00</ComboBoxItem>
+                    <ComboBoxItem>00:00</ComboBoxItem>
+                </ComboBox>
+                <Button Name="btnConfirmar" Content="Reservar" HorizontalAlignment="Left" Margin="45,207,-143,-122" VerticalAlignment="Top" Width="205" Click="BtnConfirmar_Click" Height="42" Grid.Column="1" >
+                    <Button.Background>
+                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                            <GradientStop Color="Black" Offset="0"/>
+                            <GradientStop Color="Black" Offset="1"/>
+                        </LinearGradientBrush>
+                    </Button.Background>
+                </Button>
+                <ComboBox Background="FloralWhite" x:Name="cboHoraDevolucao" Margin="45,147,-143,-62" materialDesign:HintAssist.Hint="Horario da Devolução" Style="{StaticResource MaterialDesignFloatingHintComboBox}"  Height="42" RenderTransformOrigin="0.5,0.5" Grid.Column="1" >
+                    <ComboBoxItem Content="1:00"/>
+                    <ComboBoxItem Content="2:00"/>
+                    <ComboBoxItem Content="3:00"/>
+                    <ComboBoxItem Content="4:00"/>
+                    <ComboBoxItem Content="5:00"/>
+                    <ComboBoxItem Content="6:00"/>
+                    <ComboBoxItem Content="7:00"/>
+                    <ComboBoxItem Content="8:00"/>
+                    <ComboBoxItem Content="9:00"/>
+                    <ComboBoxItem Content="10:00"/>
+                    <ComboBoxItem Content="11:00"/>
+                    <ComboBoxItem Content="12:00"/>
+                    <ComboBoxItem Content="13:00"/>
+                    <ComboBoxItem Content="14:00"/>
+                    <ComboBoxItem Content="15:00"/>
+                    <ComboBoxItem Content="16:00"/>
+                    <ComboBoxItem Content="17:00"/>
+                    <ComboBoxItem Content="18:00"/>
+                    <ComboBoxItem Content="19:00"/>
+                    <ComboBoxItem Content="20:00"/>
+                    <ComboBoxItem Content="21:00"/>
+                    <ComboBoxItem Content="22:00"/>
+                    <ComboBoxItem Content="23:00"/>
+                    <ComboBoxItem Content="00:00"/>
+                </ComboBox>
+                <DatePicker Background="FloralWhite" Name="dtDevolucao" materialDesign:HintAssist.Hint="Data da Devolução" Margin="45,109,-143,-15" Height="33" Grid.Column="1"/>
+
+            </Grid>
+
+        </Grid>
+
+    </Grid>
+
+</Window>

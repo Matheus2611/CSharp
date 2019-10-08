@@ -1,0 +1,2 @@
+﻿Alexandre, eu mudei o método de pesquisa pois só vai ter um carro com um número de placa, mas deu boa
+Adcionar campo cep no cadastro e na edição de cliente não esquecer de por para validar o campo e limpar o campO

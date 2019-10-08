@@ -1,0 +1,1232 @@
+C:\Users\xandy\source\repos\LocadoraWpf\LocadoraWpf\bin\Debug\LocadoraWpf.exe.config
+C:\Users\xandy\source\repos\LocadoraWpf\LocadoraWpf\bin\Debug\LocadoraWpf.exe
+C:\Users\xandy\source\repos\LocadoraWpf\LocadoraWpf\bin\Debug\LocadoraWpf.pdb
+C:\Users\xandy\source\repos\LocadoraWpf\LocadoraWpf\bin\Debug\MaterialDesignColors.dll
+C:\Users\xandy\source\repos\LocadoraWpf\LocadoraWpf\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\xandy\source\repos\LocadoraWpf\LocadoraWpf\bin\Debug\MaterialDesignColors.pdb
+C:\Users\xandy\source\repos\LocadoraWpf\LocadoraWpf\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\xandy\source\repos\LocadoraWpf\LocadoraWpf\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\xandy\source\repos\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.csprojAssemblyReference.cache
+C:\Users\xandy\source\repos\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmCadCliente.g.cs
+C:\Users\xandy\source\repos\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmHome.g.cs
+C:\Users\xandy\source\repos\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmMenuAdm.g.cs
+C:\Users\xandy\source\repos\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmMenuCliente.g.cs
+C:\Users\xandy\source\repos\LocadoraWpf\LocadoraWpf\obj\Debug\App.g.cs
+C:\Users\xandy\source\repos\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf_MarkupCompile.cache
+C:\Users\xandy\source\repos\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf_MarkupCompile.lref
+C:\Users\xandy\source\repos\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmCadCliente.baml
+C:\Users\xandy\source\repos\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmHome.baml
+C:\Users\xandy\source\repos\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmMenuAdm.baml
+C:\Users\xandy\source\repos\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmMenuCliente.baml
+C:\Users\xandy\source\repos\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.g.resources
+C:\Users\xandy\source\repos\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.Properties.Resources.resources
+C:\Users\xandy\source\repos\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.csproj.GenerateResource.cache
+C:\Users\xandy\source\repos\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.csproj.CoreCompileInputs.cache
+C:\Users\xandy\source\repos\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.csproj.CopyComplete
+C:\Users\xandy\source\repos\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.exe
+C:\Users\xandy\source\repos\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.pdb
+C:\Users\xandy\source\repos\LocadoraWpf\LocadoraWpf\obj\Debug\App.baml
+C:\Users\xandy\source\repos\LocadoraWpf\LocadoraWpf\bin\Debug\EntityFramework.dll
+C:\Users\xandy\source\repos\LocadoraWpf\LocadoraWpf\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\xandy\source\repos\LocadoraWpf\LocadoraWpf\bin\Debug\EntityFramework.xml
+C:\Users\xandy\source\repos\LocadoraWpf\LocadoraWpf\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\xandy\source\repos\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.Migrations.TabelasCarroClienteMoto.resources
+C:\Users\xandy\source\repos\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarCarro.g.cs
+C:\Users\xandy\source\repos\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarCarro.baml
+C:\Users\xandy\source\repos\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usListaCliente.g.cs
+C:\Users\xandy\source\repos\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usListaCliente.baml
+C:\Users\xandy\source\repos\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usEditarCliente.g.cs
+C:\Users\xandy\source\repos\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usEditarCliente.baml
+C:\Users\User\Desktop\LocadoraWpf\LocadoraWpf\bin\Debug\LocadoraWpf.exe.config
+C:\Users\User\Desktop\LocadoraWpf\LocadoraWpf\bin\Debug\LocadoraWpf.exe
+C:\Users\User\Desktop\LocadoraWpf\LocadoraWpf\bin\Debug\LocadoraWpf.pdb
+C:\Users\User\Desktop\LocadoraWpf\LocadoraWpf\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\LocadoraWpf\LocadoraWpf\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\LocadoraWpf\LocadoraWpf\bin\Debug\MaterialDesignColors.dll
+C:\Users\User\Desktop\LocadoraWpf\LocadoraWpf\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\User\Desktop\LocadoraWpf\LocadoraWpf\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\LocadoraWpf\LocadoraWpf\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\LocadoraWpf\LocadoraWpf\bin\Debug\MaterialDesignColors.pdb
+C:\Users\User\Desktop\LocadoraWpf\LocadoraWpf\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\User\Desktop\LocadoraWpf\LocadoraWpf\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\User\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.csprojAssemblyReference.cache
+C:\Users\User\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarCarro.g.cs
+C:\Users\User\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usEditarCliente.g.cs
+C:\Users\User\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usListaCliente.g.cs
+C:\Users\User\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmCadCliente.g.cs
+C:\Users\User\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmHome.g.cs
+C:\Users\User\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmMenuAdm.g.cs
+C:\Users\User\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmMenuCliente.g.cs
+C:\Users\User\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\App.g.cs
+C:\Users\User\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf_MarkupCompile.cache
+C:\Users\User\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf_MarkupCompile.lref
+C:\Users\User\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\App.baml
+C:\Users\User\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarCarro.baml
+C:\Users\User\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usEditarCliente.baml
+C:\Users\User\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usListaCliente.baml
+C:\Users\User\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmCadCliente.baml
+C:\Users\User\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmHome.baml
+C:\Users\User\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmMenuAdm.baml
+C:\Users\User\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmMenuCliente.baml
+C:\Users\User\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.g.resources
+C:\Users\User\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.Properties.Resources.resources
+C:\Users\User\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.csproj.GenerateResource.cache
+C:\Users\User\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.csproj.CopyComplete
+C:\Users\User\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.exe
+C:\Users\User\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.pdb
+C:\Users\User\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarMoto.g.cs
+C:\Users\User\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarMoto.baml
+C:\Users\User\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usListarCarro.g.cs
+C:\Users\User\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usListarCarro.baml
+C:\Users\User\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usListarMoto.g.cs
+C:\Users\User\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usListarMoto.baml
+C:\Users\xandy\Desktop\Desenvolvimento Microsoft\Projetos\LocadoraWpf\LocadoraWpf\bin\Debug\LocadoraWpf.exe.config
+C:\Users\xandy\Desktop\Desenvolvimento Microsoft\Projetos\LocadoraWpf\LocadoraWpf\bin\Debug\LocadoraWpf.exe
+C:\Users\xandy\Desktop\Desenvolvimento Microsoft\Projetos\LocadoraWpf\LocadoraWpf\bin\Debug\LocadoraWpf.pdb
+C:\Users\xandy\Desktop\Desenvolvimento Microsoft\Projetos\LocadoraWpf\LocadoraWpf\bin\Debug\EntityFramework.dll
+C:\Users\xandy\Desktop\Desenvolvimento Microsoft\Projetos\LocadoraWpf\LocadoraWpf\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\xandy\Desktop\Desenvolvimento Microsoft\Projetos\LocadoraWpf\LocadoraWpf\bin\Debug\MaterialDesignColors.dll
+C:\Users\xandy\Desktop\Desenvolvimento Microsoft\Projetos\LocadoraWpf\LocadoraWpf\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\xandy\Desktop\Desenvolvimento Microsoft\Projetos\LocadoraWpf\LocadoraWpf\bin\Debug\EntityFramework.xml
+C:\Users\xandy\Desktop\Desenvolvimento Microsoft\Projetos\LocadoraWpf\LocadoraWpf\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\xandy\Desktop\Desenvolvimento Microsoft\Projetos\LocadoraWpf\LocadoraWpf\bin\Debug\MaterialDesignColors.pdb
+C:\Users\xandy\Desktop\Desenvolvimento Microsoft\Projetos\LocadoraWpf\LocadoraWpf\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\xandy\Desktop\Desenvolvimento Microsoft\Projetos\LocadoraWpf\LocadoraWpf\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\xandy\Desktop\Desenvolvimento Microsoft\Projetos\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.csprojAssemblyReference.cache
+C:\Users\xandy\Desktop\Desenvolvimento Microsoft\Projetos\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarCarro.g.cs
+C:\Users\xandy\Desktop\Desenvolvimento Microsoft\Projetos\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarMoto.g.cs
+C:\Users\xandy\Desktop\Desenvolvimento Microsoft\Projetos\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usEditarCliente.g.cs
+C:\Users\xandy\Desktop\Desenvolvimento Microsoft\Projetos\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usListaCliente.g.cs
+C:\Users\xandy\Desktop\Desenvolvimento Microsoft\Projetos\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usListarCarro.g.cs
+C:\Users\xandy\Desktop\Desenvolvimento Microsoft\Projetos\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usListarMoto.g.cs
+C:\Users\xandy\Desktop\Desenvolvimento Microsoft\Projetos\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmCadCliente.g.cs
+C:\Users\xandy\Desktop\Desenvolvimento Microsoft\Projetos\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmHome.g.cs
+C:\Users\xandy\Desktop\Desenvolvimento Microsoft\Projetos\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmMenuAdm.g.cs
+C:\Users\xandy\Desktop\Desenvolvimento Microsoft\Projetos\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmMenuCliente.g.cs
+C:\Users\xandy\Desktop\Desenvolvimento Microsoft\Projetos\LocadoraWpf\LocadoraWpf\obj\Debug\App.g.cs
+C:\Users\xandy\Desktop\Desenvolvimento Microsoft\Projetos\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf_MarkupCompile.cache
+C:\Users\xandy\Desktop\Desenvolvimento Microsoft\Projetos\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf_MarkupCompile.lref
+C:\Users\xandy\Desktop\Desenvolvimento Microsoft\Projetos\LocadoraWpf\LocadoraWpf\obj\Debug\App.baml
+C:\Users\xandy\Desktop\Desenvolvimento Microsoft\Projetos\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarCarro.baml
+C:\Users\xandy\Desktop\Desenvolvimento Microsoft\Projetos\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarMoto.baml
+C:\Users\xandy\Desktop\Desenvolvimento Microsoft\Projetos\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usEditarCliente.baml
+C:\Users\xandy\Desktop\Desenvolvimento Microsoft\Projetos\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usListaCliente.baml
+C:\Users\xandy\Desktop\Desenvolvimento Microsoft\Projetos\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usListarCarro.baml
+C:\Users\xandy\Desktop\Desenvolvimento Microsoft\Projetos\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usListarMoto.baml
+C:\Users\xandy\Desktop\Desenvolvimento Microsoft\Projetos\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmCadCliente.baml
+C:\Users\xandy\Desktop\Desenvolvimento Microsoft\Projetos\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmHome.baml
+C:\Users\xandy\Desktop\Desenvolvimento Microsoft\Projetos\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmMenuAdm.baml
+C:\Users\xandy\Desktop\Desenvolvimento Microsoft\Projetos\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmMenuCliente.baml
+C:\Users\xandy\Desktop\Desenvolvimento Microsoft\Projetos\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.g.resources
+C:\Users\xandy\Desktop\Desenvolvimento Microsoft\Projetos\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.Properties.Resources.resources
+C:\Users\xandy\Desktop\Desenvolvimento Microsoft\Projetos\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.csproj.GenerateResource.cache
+C:\Users\xandy\Desktop\Desenvolvimento Microsoft\Projetos\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.csproj.CoreCompileInputs.cache
+C:\Users\xandy\Desktop\Desenvolvimento Microsoft\Projetos\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.csproj.CopyComplete
+C:\Users\xandy\Desktop\Desenvolvimento Microsoft\Projetos\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.exe
+C:\Users\xandy\Desktop\Desenvolvimento Microsoft\Projetos\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.pdb
+C:\Users\xandy\Desktop\Desenvolvimento Microsoft\Projetos\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.Migrations.projetocriado.resources
+C:\Users\xandy\Desktop\Desenvolvimento Microsoft\Projetos\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCliente.g.cs
+C:\Users\xandy\Desktop\Desenvolvimento Microsoft\Projetos\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCliente.baml
+C:\Users\User\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCliente.g.cs
+C:\Users\User\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCliente.baml
+C:\Users\User\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCarro.g.cs
+C:\Users\User\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCarro.baml
+C:\Users\User\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaMoto.g.cs
+C:\Users\User\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaMoto.baml
+C:\Users\xandy\Desktop\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\bin\Debug\LocadoraWpf.exe.config
+C:\Users\xandy\Desktop\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\bin\Debug\LocadoraWpf.exe
+C:\Users\xandy\Desktop\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\bin\Debug\LocadoraWpf.pdb
+C:\Users\xandy\Desktop\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\bin\Debug\EntityFramework.dll
+C:\Users\xandy\Desktop\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\xandy\Desktop\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\bin\Debug\MaterialDesignColors.dll
+C:\Users\xandy\Desktop\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\xandy\Desktop\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\bin\Debug\EntityFramework.xml
+C:\Users\xandy\Desktop\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\xandy\Desktop\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\bin\Debug\MaterialDesignColors.pdb
+C:\Users\xandy\Desktop\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\xandy\Desktop\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\xandy\Desktop\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.csprojAssemblyReference.cache
+C:\Users\xandy\Desktop\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarCarro.g.cs
+C:\Users\xandy\Desktop\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarMoto.g.cs
+C:\Users\xandy\Desktop\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usEditarCliente.g.cs
+C:\Users\xandy\Desktop\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usListaCliente.g.cs
+C:\Users\xandy\Desktop\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usListarCarro.g.cs
+C:\Users\xandy\Desktop\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usListarMoto.g.cs
+C:\Users\xandy\Desktop\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCarro.g.cs
+C:\Users\xandy\Desktop\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCliente.g.cs
+C:\Users\xandy\Desktop\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaMoto.g.cs
+C:\Users\xandy\Desktop\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmCadCliente.g.cs
+C:\Users\xandy\Desktop\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmHome.g.cs
+C:\Users\xandy\Desktop\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmMenuAdm.g.cs
+C:\Users\xandy\Desktop\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmMenuCliente.g.cs
+C:\Users\xandy\Desktop\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\App.g.cs
+C:\Users\xandy\Desktop\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf_MarkupCompile.cache
+C:\Users\xandy\Desktop\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf_MarkupCompile.lref
+C:\Users\xandy\Desktop\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\App.baml
+C:\Users\xandy\Desktop\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarCarro.baml
+C:\Users\xandy\Desktop\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarMoto.baml
+C:\Users\xandy\Desktop\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usEditarCliente.baml
+C:\Users\xandy\Desktop\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usListaCliente.baml
+C:\Users\xandy\Desktop\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usListarCarro.baml
+C:\Users\xandy\Desktop\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usListarMoto.baml
+C:\Users\xandy\Desktop\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCarro.baml
+C:\Users\xandy\Desktop\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCliente.baml
+C:\Users\xandy\Desktop\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaMoto.baml
+C:\Users\xandy\Desktop\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmCadCliente.baml
+C:\Users\xandy\Desktop\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmHome.baml
+C:\Users\xandy\Desktop\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmMenuAdm.baml
+C:\Users\xandy\Desktop\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmMenuCliente.baml
+C:\Users\xandy\Desktop\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.g.resources
+C:\Users\xandy\Desktop\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.Migrations.projetocriado.resources
+C:\Users\xandy\Desktop\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.Properties.Resources.resources
+C:\Users\xandy\Desktop\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.csproj.GenerateResource.cache
+C:\Users\xandy\Desktop\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.csproj.CoreCompileInputs.cache
+C:\Users\xandy\Desktop\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.csproj.CopyComplete
+C:\Users\xandy\Desktop\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.exe
+C:\Users\xandy\Desktop\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.pdb
+F:\C#\ProjetoLocadoraWpf\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\bin\Debug\LocadoraWpf.exe.config
+F:\C#\ProjetoLocadoraWpf\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\bin\Debug\LocadoraWpf.exe
+F:\C#\ProjetoLocadoraWpf\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\bin\Debug\LocadoraWpf.pdb
+F:\C#\ProjetoLocadoraWpf\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\bin\Debug\EntityFramework.dll
+F:\C#\ProjetoLocadoraWpf\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\bin\Debug\EntityFramework.SqlServer.dll
+F:\C#\ProjetoLocadoraWpf\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\bin\Debug\MaterialDesignColors.dll
+F:\C#\ProjetoLocadoraWpf\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\bin\Debug\MaterialDesignThemes.Wpf.dll
+F:\C#\ProjetoLocadoraWpf\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\bin\Debug\EntityFramework.xml
+F:\C#\ProjetoLocadoraWpf\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\bin\Debug\EntityFramework.SqlServer.xml
+F:\C#\ProjetoLocadoraWpf\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\bin\Debug\MaterialDesignColors.pdb
+F:\C#\ProjetoLocadoraWpf\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\bin\Debug\MaterialDesignThemes.Wpf.pdb
+F:\C#\ProjetoLocadoraWpf\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\bin\Debug\MaterialDesignThemes.Wpf.xml
+F:\C#\ProjetoLocadoraWpf\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.csprojAssemblyReference.cache
+F:\C#\ProjetoLocadoraWpf\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarCarro.g.cs
+F:\C#\ProjetoLocadoraWpf\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarMoto.g.cs
+F:\C#\ProjetoLocadoraWpf\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usEditarCliente.g.cs
+F:\C#\ProjetoLocadoraWpf\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usListaCliente.g.cs
+F:\C#\ProjetoLocadoraWpf\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usListarCarro.g.cs
+F:\C#\ProjetoLocadoraWpf\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usListarMoto.g.cs
+F:\C#\ProjetoLocadoraWpf\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCarro.g.cs
+F:\C#\ProjetoLocadoraWpf\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCliente.g.cs
+F:\C#\ProjetoLocadoraWpf\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaMoto.g.cs
+F:\C#\ProjetoLocadoraWpf\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmCadCliente.g.cs
+F:\C#\ProjetoLocadoraWpf\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmHome.g.cs
+F:\C#\ProjetoLocadoraWpf\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmMenuAdm.g.cs
+F:\C#\ProjetoLocadoraWpf\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmMenuCliente.g.cs
+F:\C#\ProjetoLocadoraWpf\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\App.g.cs
+F:\C#\ProjetoLocadoraWpf\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf_MarkupCompile.cache
+F:\C#\ProjetoLocadoraWpf\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf_MarkupCompile.lref
+F:\C#\ProjetoLocadoraWpf\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\App.baml
+F:\C#\ProjetoLocadoraWpf\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarCarro.baml
+F:\C#\ProjetoLocadoraWpf\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarMoto.baml
+F:\C#\ProjetoLocadoraWpf\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usEditarCliente.baml
+F:\C#\ProjetoLocadoraWpf\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usListaCliente.baml
+F:\C#\ProjetoLocadoraWpf\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usListarCarro.baml
+F:\C#\ProjetoLocadoraWpf\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usListarMoto.baml
+F:\C#\ProjetoLocadoraWpf\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCarro.baml
+F:\C#\ProjetoLocadoraWpf\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCliente.baml
+F:\C#\ProjetoLocadoraWpf\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaMoto.baml
+F:\C#\ProjetoLocadoraWpf\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmCadCliente.baml
+F:\C#\ProjetoLocadoraWpf\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmHome.baml
+F:\C#\ProjetoLocadoraWpf\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmMenuAdm.baml
+F:\C#\ProjetoLocadoraWpf\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmMenuCliente.baml
+F:\C#\ProjetoLocadoraWpf\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.g.resources
+F:\C#\ProjetoLocadoraWpf\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.Properties.Resources.resources
+F:\C#\ProjetoLocadoraWpf\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.csproj.GenerateResource.cache
+F:\C#\ProjetoLocadoraWpf\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.csproj.CoreCompileInputs.cache
+F:\C#\ProjetoLocadoraWpf\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.csproj.CopyComplete
+F:\C#\ProjetoLocadoraWpf\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.exe
+F:\C#\ProjetoLocadoraWpf\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.pdb
+F:\C#\ProjetoLocadoraWpf\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.Migrations.projetoatualizado.resources
+F:\C#\ProjetoLocadoraWpf\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usAlugaCarro.g.cs
+F:\C#\ProjetoLocadoraWpf\ProjetoWPFLocadora\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usAlugaCarro.baml
+C:\Users\Aluno\Desktop\LocadoraWpf\LocadoraWpf\bin\Debug\LocadoraWpf.exe.config
+C:\Users\Aluno\Desktop\LocadoraWpf\LocadoraWpf\bin\Debug\LocadoraWpf.exe
+C:\Users\Aluno\Desktop\LocadoraWpf\LocadoraWpf\bin\Debug\LocadoraWpf.pdb
+C:\Users\Aluno\Desktop\LocadoraWpf\LocadoraWpf\bin\Debug\EntityFramework.dll
+C:\Users\Aluno\Desktop\LocadoraWpf\LocadoraWpf\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aluno\Desktop\LocadoraWpf\LocadoraWpf\bin\Debug\MaterialDesignColors.dll
+C:\Users\Aluno\Desktop\LocadoraWpf\LocadoraWpf\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Aluno\Desktop\LocadoraWpf\LocadoraWpf\bin\Debug\EntityFramework.xml
+C:\Users\Aluno\Desktop\LocadoraWpf\LocadoraWpf\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aluno\Desktop\LocadoraWpf\LocadoraWpf\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Aluno\Desktop\LocadoraWpf\LocadoraWpf\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Aluno\Desktop\LocadoraWpf\LocadoraWpf\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Aluno\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usAlugaCarro.g.cs
+C:\Users\Aluno\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarCarro.g.cs
+C:\Users\Aluno\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarMoto.g.cs
+C:\Users\Aluno\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usEditarCliente.g.cs
+C:\Users\Aluno\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usListaCliente.g.cs
+C:\Users\Aluno\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usListarCarro.g.cs
+C:\Users\Aluno\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usListarMoto.g.cs
+C:\Users\Aluno\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCarro.g.cs
+C:\Users\Aluno\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCliente.g.cs
+C:\Users\Aluno\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaMoto.g.cs
+C:\Users\Aluno\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmCadCliente.g.cs
+C:\Users\Aluno\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmHome.g.cs
+C:\Users\Aluno\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmMenuAdm.g.cs
+C:\Users\Aluno\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmMenuCliente.g.cs
+C:\Users\Aluno\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\App.g.cs
+C:\Users\Aluno\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf_MarkupCompile.cache
+C:\Users\Aluno\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf_MarkupCompile.lref
+C:\Users\Aluno\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\App.baml
+C:\Users\Aluno\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usAlugaCarro.baml
+C:\Users\Aluno\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarCarro.baml
+C:\Users\Aluno\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarMoto.baml
+C:\Users\Aluno\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usEditarCliente.baml
+C:\Users\Aluno\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usListaCliente.baml
+C:\Users\Aluno\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usListarCarro.baml
+C:\Users\Aluno\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usListarMoto.baml
+C:\Users\Aluno\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCarro.baml
+C:\Users\Aluno\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCliente.baml
+C:\Users\Aluno\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaMoto.baml
+C:\Users\Aluno\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmCadCliente.baml
+C:\Users\Aluno\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmHome.baml
+C:\Users\Aluno\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmMenuAdm.baml
+C:\Users\Aluno\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmMenuCliente.baml
+C:\Users\Aluno\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.g.resources
+C:\Users\Aluno\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.Properties.Resources.resources
+C:\Users\Aluno\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.csproj.CopyComplete
+C:\Users\Aluno\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.exe
+C:\Users\Aluno\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.pdb
+C:\Users\Aluno\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usAlugarMoto.g.cs
+C:\Users\Aluno\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usAlugarMoto.baml
+C:\Users\Aluno\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.Migrations.criandoprojeto.resources
+C:\Users\xandy\Desktop\LocadoraWpf\17_09\LocadoraWpf\LocadoraWpf\bin\Debug\LocadoraWpf.exe.config
+C:\Users\xandy\Desktop\LocadoraWpf\17_09\LocadoraWpf\LocadoraWpf\bin\Debug\LocadoraWpf.exe
+C:\Users\xandy\Desktop\LocadoraWpf\17_09\LocadoraWpf\LocadoraWpf\bin\Debug\LocadoraWpf.pdb
+C:\Users\xandy\Desktop\LocadoraWpf\17_09\LocadoraWpf\LocadoraWpf\bin\Debug\EntityFramework.dll
+C:\Users\xandy\Desktop\LocadoraWpf\17_09\LocadoraWpf\LocadoraWpf\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\xandy\Desktop\LocadoraWpf\17_09\LocadoraWpf\LocadoraWpf\bin\Debug\MaterialDesignColors.dll
+C:\Users\xandy\Desktop\LocadoraWpf\17_09\LocadoraWpf\LocadoraWpf\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\xandy\Desktop\LocadoraWpf\17_09\LocadoraWpf\LocadoraWpf\bin\Debug\EntityFramework.xml
+C:\Users\xandy\Desktop\LocadoraWpf\17_09\LocadoraWpf\LocadoraWpf\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\xandy\Desktop\LocadoraWpf\17_09\LocadoraWpf\LocadoraWpf\bin\Debug\MaterialDesignColors.pdb
+C:\Users\xandy\Desktop\LocadoraWpf\17_09\LocadoraWpf\LocadoraWpf\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\xandy\Desktop\LocadoraWpf\17_09\LocadoraWpf\LocadoraWpf\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\xandy\Desktop\LocadoraWpf\17_09\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.csprojAssemblyReference.cache
+C:\Users\xandy\Desktop\LocadoraWpf\17_09\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usAlugaCarro.g.cs
+C:\Users\xandy\Desktop\LocadoraWpf\17_09\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usAlugarMoto.g.cs
+C:\Users\xandy\Desktop\LocadoraWpf\17_09\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarCarro.g.cs
+C:\Users\xandy\Desktop\LocadoraWpf\17_09\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarMoto.g.cs
+C:\Users\xandy\Desktop\LocadoraWpf\17_09\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usEditarCliente.g.cs
+C:\Users\xandy\Desktop\LocadoraWpf\17_09\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usListaCliente.g.cs
+C:\Users\xandy\Desktop\LocadoraWpf\17_09\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usListarCarro.g.cs
+C:\Users\xandy\Desktop\LocadoraWpf\17_09\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usListarMoto.g.cs
+C:\Users\xandy\Desktop\LocadoraWpf\17_09\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCarro.g.cs
+C:\Users\xandy\Desktop\LocadoraWpf\17_09\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCliente.g.cs
+C:\Users\xandy\Desktop\LocadoraWpf\17_09\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaMoto.g.cs
+C:\Users\xandy\Desktop\LocadoraWpf\17_09\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmCadCliente.g.cs
+C:\Users\xandy\Desktop\LocadoraWpf\17_09\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmHome.g.cs
+C:\Users\xandy\Desktop\LocadoraWpf\17_09\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmMenuAdm.g.cs
+C:\Users\xandy\Desktop\LocadoraWpf\17_09\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmMenuCliente.g.cs
+C:\Users\xandy\Desktop\LocadoraWpf\17_09\LocadoraWpf\LocadoraWpf\obj\Debug\App.g.cs
+C:\Users\xandy\Desktop\LocadoraWpf\17_09\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf_MarkupCompile.cache
+C:\Users\xandy\Desktop\LocadoraWpf\17_09\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf_MarkupCompile.lref
+C:\Users\xandy\Desktop\LocadoraWpf\17_09\LocadoraWpf\LocadoraWpf\obj\Debug\App.baml
+C:\Users\xandy\Desktop\LocadoraWpf\17_09\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usAlugaCarro.baml
+C:\Users\xandy\Desktop\LocadoraWpf\17_09\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usAlugarMoto.baml
+C:\Users\xandy\Desktop\LocadoraWpf\17_09\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarCarro.baml
+C:\Users\xandy\Desktop\LocadoraWpf\17_09\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarMoto.baml
+C:\Users\xandy\Desktop\LocadoraWpf\17_09\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usEditarCliente.baml
+C:\Users\xandy\Desktop\LocadoraWpf\17_09\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usListaCliente.baml
+C:\Users\xandy\Desktop\LocadoraWpf\17_09\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usListarCarro.baml
+C:\Users\xandy\Desktop\LocadoraWpf\17_09\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usListarMoto.baml
+C:\Users\xandy\Desktop\LocadoraWpf\17_09\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCarro.baml
+C:\Users\xandy\Desktop\LocadoraWpf\17_09\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCliente.baml
+C:\Users\xandy\Desktop\LocadoraWpf\17_09\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaMoto.baml
+C:\Users\xandy\Desktop\LocadoraWpf\17_09\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmCadCliente.baml
+C:\Users\xandy\Desktop\LocadoraWpf\17_09\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmHome.baml
+C:\Users\xandy\Desktop\LocadoraWpf\17_09\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmMenuAdm.baml
+C:\Users\xandy\Desktop\LocadoraWpf\17_09\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmMenuCliente.baml
+C:\Users\xandy\Desktop\LocadoraWpf\17_09\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.g.resources
+C:\Users\xandy\Desktop\LocadoraWpf\17_09\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.Properties.Resources.resources
+C:\Users\xandy\Desktop\LocadoraWpf\17_09\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.csproj.GenerateResource.cache
+C:\Users\xandy\Desktop\LocadoraWpf\17_09\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.csproj.CoreCompileInputs.cache
+C:\Users\xandy\Desktop\LocadoraWpf\17_09\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.csproj.CopyComplete
+C:\Users\xandy\Desktop\LocadoraWpf\17_09\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.exe
+C:\Users\xandy\Desktop\LocadoraWpf\17_09\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.pdb
+C:\Users\xandy\Desktop\LocadoraWpf\17_09\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmReservaCarro.g.cs
+C:\Users\xandy\Desktop\LocadoraWpf\17_09\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmReservaCarro.baml
+C:\Users\xandy\Desktop\LocadoraWpf\17_09\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usAprovaReservaCarro.g.cs
+C:\Users\xandy\Desktop\LocadoraWpf\17_09\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usAprovaReservaCarro.baml
+C:\Users\xandy\Desktop\LocadoraWpf\17_09\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmReservaMoto.g.cs
+C:\Users\xandy\Desktop\LocadoraWpf\17_09\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmReservaMoto.baml
+C:\Users\xandy\Desktop\LocadoraWpf\17_09\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usDevolucao.g.cs
+C:\Users\xandy\Desktop\LocadoraWpf\17_09\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usDevolucao.baml
+C:\Users\xandy\Desktop\LocadoraWpf\17_09\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usHistoricoReserva.g.cs
+C:\Users\xandy\Desktop\LocadoraWpf\17_09\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usHistoricoReserva.baml
+C:\Users\xandy\Desktop\LocadoraWpf\17_09\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.Migrations.projetocriado.resources
+C:\Users\User\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usAlugaCarro.g.cs
+C:\Users\User\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usAlugarMoto.g.cs
+C:\Users\User\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usAprovaReservaCarro.g.cs
+C:\Users\User\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usDevolucao.g.cs
+C:\Users\User\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usHistoricoReserva.g.cs
+C:\Users\User\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmReservaCarro.g.cs
+C:\Users\User\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmReservaMoto.g.cs
+C:\Users\User\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usAlugaCarro.baml
+C:\Users\User\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usAlugarMoto.baml
+C:\Users\User\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usAprovaReservaCarro.baml
+C:\Users\User\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usDevolucao.baml
+C:\Users\User\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usHistoricoReserva.baml
+C:\Users\User\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmReservaCarro.baml
+C:\Users\User\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmReservaMoto.baml
+C:\Users\User\Desktop\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.Migrations.teste.resources
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.csprojAssemblyReference.cache
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usAlugaCarro.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usAlugarMoto.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usAprovaReservaCarro.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarCarro.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarMoto.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usDevolucao.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usEditarCliente.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usHistoricoReserva.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usListaCliente.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usListarCarro.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usListarMoto.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCarro.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCliente.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaMoto.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmCadCliente.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmHome.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmMenuAdm.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmMenuCliente.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmReservaCarro.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmReservaMoto.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\App.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf_MarkupCompile.cache
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf_MarkupCompile.lref
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.exe
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.pdb
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf\LocadoraWpf\bin\Debug\LocadoraWpf.exe.config
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf\LocadoraWpf\bin\Debug\LocadoraWpf.exe
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf\LocadoraWpf\bin\Debug\LocadoraWpf.pdb
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf\LocadoraWpf\bin\Debug\EntityFramework.dll
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf\LocadoraWpf\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf\LocadoraWpf\bin\Debug\MaterialDesignColors.dll
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf\LocadoraWpf\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf\LocadoraWpf\bin\Debug\EntityFramework.xml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf\LocadoraWpf\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf\LocadoraWpf\bin\Debug\MaterialDesignColors.pdb
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf\LocadoraWpf\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf\LocadoraWpf\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\App.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usAlugaCarro.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usAlugarMoto.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usAprovaReservaCarro.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarCarro.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarMoto.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usDevolucao.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usEditarCliente.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usHistoricoReserva.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usListaCliente.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usListarCarro.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usListarMoto.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCarro.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCliente.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaMoto.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmCadCliente.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmHome.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmMenuAdm.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmMenuCliente.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmReservaCarro.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmReservaMoto.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.g.resources
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.Properties.Resources.resources
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.csproj.GenerateResource.cache
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.csproj.CoreCompileInputs.cache
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.csproj.CopyComplete
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.Migrations.projetoatt.resources
+F:\C#\New Project C#\LocadoraWpf\LocadoraWpf\bin\Debug\LocadoraWpf.exe.config
+F:\C#\New Project C#\LocadoraWpf\LocadoraWpf\bin\Debug\LocadoraWpf.exe
+F:\C#\New Project C#\LocadoraWpf\LocadoraWpf\bin\Debug\LocadoraWpf.pdb
+F:\C#\New Project C#\LocadoraWpf\LocadoraWpf\bin\Debug\EntityFramework.dll
+F:\C#\New Project C#\LocadoraWpf\LocadoraWpf\bin\Debug\EntityFramework.SqlServer.dll
+F:\C#\New Project C#\LocadoraWpf\LocadoraWpf\bin\Debug\MaterialDesignColors.dll
+F:\C#\New Project C#\LocadoraWpf\LocadoraWpf\bin\Debug\MaterialDesignThemes.Wpf.dll
+F:\C#\New Project C#\LocadoraWpf\LocadoraWpf\bin\Debug\EntityFramework.xml
+F:\C#\New Project C#\LocadoraWpf\LocadoraWpf\bin\Debug\EntityFramework.SqlServer.xml
+F:\C#\New Project C#\LocadoraWpf\LocadoraWpf\bin\Debug\MaterialDesignColors.pdb
+F:\C#\New Project C#\LocadoraWpf\LocadoraWpf\bin\Debug\MaterialDesignThemes.Wpf.pdb
+F:\C#\New Project C#\LocadoraWpf\LocadoraWpf\bin\Debug\MaterialDesignThemes.Wpf.xml
+F:\C#\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.csprojAssemblyReference.cache
+F:\C#\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usAlugaCarro.g.cs
+F:\C#\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usAlugarMoto.g.cs
+F:\C#\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usAprovaReservaCarro.g.cs
+F:\C#\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarCarro.g.cs
+F:\C#\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarMoto.g.cs
+F:\C#\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usDevolucao.g.cs
+F:\C#\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usEditarCliente.g.cs
+F:\C#\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usHistoricoReserva.g.cs
+F:\C#\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usListaCliente.g.cs
+F:\C#\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usListarCarro.g.cs
+F:\C#\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usListarMoto.g.cs
+F:\C#\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCarro.g.cs
+F:\C#\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCliente.g.cs
+F:\C#\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaMoto.g.cs
+F:\C#\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmCadCliente.g.cs
+F:\C#\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmHome.g.cs
+F:\C#\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmMenuAdm.g.cs
+F:\C#\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmMenuCliente.g.cs
+F:\C#\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmReservaCarro.g.cs
+F:\C#\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmReservaMoto.g.cs
+F:\C#\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\App.g.cs
+F:\C#\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf_MarkupCompile.cache
+F:\C#\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf_MarkupCompile.lref
+F:\C#\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\App.baml
+F:\C#\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usAlugaCarro.baml
+F:\C#\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usAlugarMoto.baml
+F:\C#\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usAprovaReservaCarro.baml
+F:\C#\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarCarro.baml
+F:\C#\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarMoto.baml
+F:\C#\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usDevolucao.baml
+F:\C#\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usEditarCliente.baml
+F:\C#\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usHistoricoReserva.baml
+F:\C#\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usListaCliente.baml
+F:\C#\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usListarCarro.baml
+F:\C#\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Controls\usListarMoto.baml
+F:\C#\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCarro.baml
+F:\C#\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCliente.baml
+F:\C#\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaMoto.baml
+F:\C#\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmCadCliente.baml
+F:\C#\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmHome.baml
+F:\C#\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmMenuAdm.baml
+F:\C#\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmMenuCliente.baml
+F:\C#\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmReservaCarro.baml
+F:\C#\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\Views\Frm\frmReservaMoto.baml
+F:\C#\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.g.resources
+F:\C#\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.Properties.Resources.resources
+F:\C#\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.csproj.GenerateResource.cache
+F:\C#\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.csproj.CoreCompileInputs.cache
+F:\C#\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.csproj.CopyComplete
+F:\C#\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.exe
+F:\C#\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.pdb
+F:\C#\New Project C#\LocadoraWpf\LocadoraWpf\obj\Debug\LocadoraWpf.Migrations.projetoadasdas.resources
+F:\C#\New Project C#\LocadoraWpf26_09\LocadoraWpf\bin\Debug\LocadoraWpf.exe.config
+F:\C#\New Project C#\LocadoraWpf26_09\LocadoraWpf\bin\Debug\LocadoraWpf.exe
+F:\C#\New Project C#\LocadoraWpf26_09\LocadoraWpf\bin\Debug\LocadoraWpf.pdb
+F:\C#\New Project C#\LocadoraWpf26_09\LocadoraWpf\bin\Debug\EntityFramework.dll
+F:\C#\New Project C#\LocadoraWpf26_09\LocadoraWpf\bin\Debug\EntityFramework.SqlServer.dll
+F:\C#\New Project C#\LocadoraWpf26_09\LocadoraWpf\bin\Debug\MaterialDesignColors.dll
+F:\C#\New Project C#\LocadoraWpf26_09\LocadoraWpf\bin\Debug\MaterialDesignThemes.Wpf.dll
+F:\C#\New Project C#\LocadoraWpf26_09\LocadoraWpf\bin\Debug\EntityFramework.xml
+F:\C#\New Project C#\LocadoraWpf26_09\LocadoraWpf\bin\Debug\EntityFramework.SqlServer.xml
+F:\C#\New Project C#\LocadoraWpf26_09\LocadoraWpf\bin\Debug\MaterialDesignColors.pdb
+F:\C#\New Project C#\LocadoraWpf26_09\LocadoraWpf\bin\Debug\MaterialDesignThemes.Wpf.pdb
+F:\C#\New Project C#\LocadoraWpf26_09\LocadoraWpf\bin\Debug\MaterialDesignThemes.Wpf.xml
+F:\C#\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\LocadoraWpf.csprojAssemblyReference.cache
+F:\C#\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usAlugaCarro.g.cs
+F:\C#\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usAlugarMoto.g.cs
+F:\C#\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usAprovaReservaCarro.g.cs
+F:\C#\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarCarro.g.cs
+F:\C#\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarMoto.g.cs
+F:\C#\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usDevolucao.g.cs
+F:\C#\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usEditarCliente.g.cs
+F:\C#\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usHistoricoReserva.g.cs
+F:\C#\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usListaCliente.g.cs
+F:\C#\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usListarCarro.g.cs
+F:\C#\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usListarMoto.g.cs
+F:\C#\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCarro.g.cs
+F:\C#\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCliente.g.cs
+F:\C#\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaMoto.g.cs
+F:\C#\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmCadCliente.g.cs
+F:\C#\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmHome.g.cs
+F:\C#\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmMenuAdm.g.cs
+F:\C#\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmMenuCliente.g.cs
+F:\C#\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmReservaCarro.g.cs
+F:\C#\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmReservaMoto.g.cs
+F:\C#\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\App.g.cs
+F:\C#\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\LocadoraWpf_MarkupCompile.cache
+F:\C#\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\LocadoraWpf_MarkupCompile.lref
+F:\C#\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\App.baml
+F:\C#\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usAlugaCarro.baml
+F:\C#\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usAlugarMoto.baml
+F:\C#\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usAprovaReservaCarro.baml
+F:\C#\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarCarro.baml
+F:\C#\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarMoto.baml
+F:\C#\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usDevolucao.baml
+F:\C#\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usEditarCliente.baml
+F:\C#\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usHistoricoReserva.baml
+F:\C#\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usListaCliente.baml
+F:\C#\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usListarCarro.baml
+F:\C#\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usListarMoto.baml
+F:\C#\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCarro.baml
+F:\C#\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCliente.baml
+F:\C#\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaMoto.baml
+F:\C#\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmCadCliente.baml
+F:\C#\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmHome.baml
+F:\C#\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmMenuAdm.baml
+F:\C#\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmMenuCliente.baml
+F:\C#\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmReservaCarro.baml
+F:\C#\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmReservaMoto.baml
+F:\C#\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\LocadoraWpf.g.resources
+F:\C#\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\LocadoraWpf.Migrations.projetoadasdas.resources
+F:\C#\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\LocadoraWpf.Properties.Resources.resources
+F:\C#\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\LocadoraWpf.csproj.GenerateResource.cache
+F:\C#\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\LocadoraWpf.csproj.CoreCompileInputs.cache
+F:\C#\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\LocadoraWpf.csproj.CopyComplete
+F:\C#\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\LocadoraWpf.exe
+F:\C#\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\LocadoraWpf.pdb
+C:\Users\Aluno\Desktop\LocadoraWpf26_09\LocadoraWpf\bin\Debug\LocadoraWpf.exe.config
+C:\Users\Aluno\Desktop\LocadoraWpf26_09\LocadoraWpf\bin\Debug\LocadoraWpf.exe
+C:\Users\Aluno\Desktop\LocadoraWpf26_09\LocadoraWpf\bin\Debug\LocadoraWpf.pdb
+C:\Users\Aluno\Desktop\LocadoraWpf26_09\LocadoraWpf\bin\Debug\EntityFramework.dll
+C:\Users\Aluno\Desktop\LocadoraWpf26_09\LocadoraWpf\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aluno\Desktop\LocadoraWpf26_09\LocadoraWpf\bin\Debug\MaterialDesignColors.dll
+C:\Users\Aluno\Desktop\LocadoraWpf26_09\LocadoraWpf\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Aluno\Desktop\LocadoraWpf26_09\LocadoraWpf\bin\Debug\EntityFramework.xml
+C:\Users\Aluno\Desktop\LocadoraWpf26_09\LocadoraWpf\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aluno\Desktop\LocadoraWpf26_09\LocadoraWpf\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Aluno\Desktop\LocadoraWpf26_09\LocadoraWpf\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Aluno\Desktop\LocadoraWpf26_09\LocadoraWpf\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Aluno\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\LocadoraWpf.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usAlugaCarro.g.cs
+C:\Users\Aluno\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usAlugarMoto.g.cs
+C:\Users\Aluno\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usAprovaReservaCarro.g.cs
+C:\Users\Aluno\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarCarro.g.cs
+C:\Users\Aluno\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarMoto.g.cs
+C:\Users\Aluno\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usDevolucao.g.cs
+C:\Users\Aluno\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usEditarCliente.g.cs
+C:\Users\Aluno\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usHistoricoReserva.g.cs
+C:\Users\Aluno\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usListaCliente.g.cs
+C:\Users\Aluno\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usListarCarro.g.cs
+C:\Users\Aluno\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usListarMoto.g.cs
+C:\Users\Aluno\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCarro.g.cs
+C:\Users\Aluno\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCliente.g.cs
+C:\Users\Aluno\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaMoto.g.cs
+C:\Users\Aluno\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmCadCliente.g.cs
+C:\Users\Aluno\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmHome.g.cs
+C:\Users\Aluno\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmMenuAdm.g.cs
+C:\Users\Aluno\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmMenuCliente.g.cs
+C:\Users\Aluno\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmPesquisaCarro.g.cs
+C:\Users\Aluno\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmReservaCarro.g.cs
+C:\Users\Aluno\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmReservaMoto.g.cs
+C:\Users\Aluno\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\App.g.cs
+C:\Users\Aluno\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\LocadoraWpf_MarkupCompile.cache
+C:\Users\Aluno\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\LocadoraWpf_MarkupCompile.lref
+C:\Users\Aluno\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\App.baml
+C:\Users\Aluno\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usAlugaCarro.baml
+C:\Users\Aluno\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usAlugarMoto.baml
+C:\Users\Aluno\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usAprovaReservaCarro.baml
+C:\Users\Aluno\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarCarro.baml
+C:\Users\Aluno\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarMoto.baml
+C:\Users\Aluno\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usDevolucao.baml
+C:\Users\Aluno\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usEditarCliente.baml
+C:\Users\Aluno\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usHistoricoReserva.baml
+C:\Users\Aluno\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usListaCliente.baml
+C:\Users\Aluno\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usListarCarro.baml
+C:\Users\Aluno\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usListarMoto.baml
+C:\Users\Aluno\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCarro.baml
+C:\Users\Aluno\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCliente.baml
+C:\Users\Aluno\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaMoto.baml
+C:\Users\Aluno\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmCadCliente.baml
+C:\Users\Aluno\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmHome.baml
+C:\Users\Aluno\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmMenuAdm.baml
+C:\Users\Aluno\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmMenuCliente.baml
+C:\Users\Aluno\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmPesquisaCarro.baml
+C:\Users\Aluno\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmReservaCarro.baml
+C:\Users\Aluno\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmReservaMoto.baml
+C:\Users\Aluno\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\LocadoraWpf.g.resources
+C:\Users\Aluno\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\LocadoraWpf.Migrations.projetoadasdas.resources
+C:\Users\Aluno\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\LocadoraWpf.Properties.Resources.resources
+C:\Users\Aluno\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\LocadoraWpf.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\LocadoraWpf.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\LocadoraWpf.csproj.CopyComplete
+C:\Users\Aluno\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\LocadoraWpf.exe
+C:\Users\Aluno\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\LocadoraWpf.pdb
+C:\Users\User\Desktop\LocadoraWpf26_09\LocadoraWpf\bin\Debug\LocadoraWpf.exe.config
+C:\Users\User\Desktop\LocadoraWpf26_09\LocadoraWpf\bin\Debug\LocadoraWpf.exe
+C:\Users\User\Desktop\LocadoraWpf26_09\LocadoraWpf\bin\Debug\LocadoraWpf.pdb
+C:\Users\User\Desktop\LocadoraWpf26_09\LocadoraWpf\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\LocadoraWpf26_09\LocadoraWpf\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\LocadoraWpf26_09\LocadoraWpf\bin\Debug\MaterialDesignColors.dll
+C:\Users\User\Desktop\LocadoraWpf26_09\LocadoraWpf\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\User\Desktop\LocadoraWpf26_09\LocadoraWpf\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\LocadoraWpf26_09\LocadoraWpf\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\LocadoraWpf26_09\LocadoraWpf\bin\Debug\MaterialDesignColors.pdb
+C:\Users\User\Desktop\LocadoraWpf26_09\LocadoraWpf\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\User\Desktop\LocadoraWpf26_09\LocadoraWpf\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\User\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\LocadoraWpf.csprojAssemblyReference.cache
+C:\Users\User\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usAlugaCarro.g.cs
+C:\Users\User\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usAlugarMoto.g.cs
+C:\Users\User\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usAprovaReservaCarro.g.cs
+C:\Users\User\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarCarro.g.cs
+C:\Users\User\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarMoto.g.cs
+C:\Users\User\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usDevolucao.g.cs
+C:\Users\User\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usEditarCliente.g.cs
+C:\Users\User\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usHistoricoReserva.g.cs
+C:\Users\User\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usListaCliente.g.cs
+C:\Users\User\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usListarCarro.g.cs
+C:\Users\User\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usListarMoto.g.cs
+C:\Users\User\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCarro.g.cs
+C:\Users\User\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCliente.g.cs
+C:\Users\User\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaMoto.g.cs
+C:\Users\User\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmCadCliente.g.cs
+C:\Users\User\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmHome.g.cs
+C:\Users\User\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmMenuAdm.g.cs
+C:\Users\User\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmMenuCliente.g.cs
+C:\Users\User\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmPesquisaCarro.g.cs
+C:\Users\User\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmReservaCarro.g.cs
+C:\Users\User\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmReservaMoto.g.cs
+C:\Users\User\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\App.g.cs
+C:\Users\User\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\LocadoraWpf_MarkupCompile.cache
+C:\Users\User\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\LocadoraWpf_MarkupCompile.lref
+C:\Users\User\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\App.baml
+C:\Users\User\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usAlugaCarro.baml
+C:\Users\User\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usAlugarMoto.baml
+C:\Users\User\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usAprovaReservaCarro.baml
+C:\Users\User\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarCarro.baml
+C:\Users\User\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarMoto.baml
+C:\Users\User\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usDevolucao.baml
+C:\Users\User\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usEditarCliente.baml
+C:\Users\User\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usHistoricoReserva.baml
+C:\Users\User\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usListaCliente.baml
+C:\Users\User\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usListarCarro.baml
+C:\Users\User\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usListarMoto.baml
+C:\Users\User\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCarro.baml
+C:\Users\User\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCliente.baml
+C:\Users\User\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaMoto.baml
+C:\Users\User\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmCadCliente.baml
+C:\Users\User\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmHome.baml
+C:\Users\User\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmMenuAdm.baml
+C:\Users\User\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmMenuCliente.baml
+C:\Users\User\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmPesquisaCarro.baml
+C:\Users\User\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmReservaCarro.baml
+C:\Users\User\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmReservaMoto.baml
+C:\Users\User\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\LocadoraWpf.g.resources
+C:\Users\User\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\LocadoraWpf.Migrations.projetoadasdas.resources
+C:\Users\User\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\LocadoraWpf.Properties.Resources.resources
+C:\Users\User\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\LocadoraWpf.csproj.GenerateResource.cache
+C:\Users\User\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\LocadoraWpf.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\LocadoraWpf.csproj.CopyComplete
+C:\Users\User\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\LocadoraWpf.exe
+C:\Users\User\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\LocadoraWpf.pdb
+C:\Users\User\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmPesquisaMoto.g.cs
+C:\Users\User\Desktop\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmPesquisaMoto.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf26_09\LocadoraWpf\bin\Debug\LocadoraWpf.exe.config
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf26_09\LocadoraWpf\bin\Debug\LocadoraWpf.exe
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf26_09\LocadoraWpf\bin\Debug\LocadoraWpf.pdb
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf26_09\LocadoraWpf\bin\Debug\EntityFramework.dll
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf26_09\LocadoraWpf\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf26_09\LocadoraWpf\bin\Debug\MaterialDesignColors.dll
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf26_09\LocadoraWpf\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf26_09\LocadoraWpf\bin\Debug\EntityFramework.xml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf26_09\LocadoraWpf\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf26_09\LocadoraWpf\bin\Debug\MaterialDesignColors.pdb
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf26_09\LocadoraWpf\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf26_09\LocadoraWpf\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\LocadoraWpf.csprojAssemblyReference.cache
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usAlugaCarro.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usAlugarMoto.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usAprovaReservaCarro.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarCarro.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarMoto.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usDevolucao.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usEditarCliente.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usHistoricoReserva.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usListaCliente.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usListarCarro.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usListarMoto.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCarro.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCliente.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaMoto.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmCadCliente.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmHome.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmMenuAdm.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmMenuCliente.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmPesquisaCarro.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmPesquisaMoto.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmReservaCarro.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmReservaMoto.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\App.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\LocadoraWpf_MarkupCompile.cache
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\LocadoraWpf_MarkupCompile.lref
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\App.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usAlugaCarro.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usAlugarMoto.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usAprovaReservaCarro.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarCarro.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarMoto.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usDevolucao.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usEditarCliente.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usHistoricoReserva.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usListaCliente.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usListarCarro.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Controls\usListarMoto.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCarro.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCliente.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaMoto.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmCadCliente.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmHome.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmMenuAdm.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmMenuCliente.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmPesquisaCarro.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmPesquisaMoto.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmReservaCarro.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\Views\Frm\frmReservaMoto.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\LocadoraWpf.g.resources
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\LocadoraWpf.Properties.Resources.resources
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\LocadoraWpf.csproj.GenerateResource.cache
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\LocadoraWpf.csproj.CoreCompileInputs.cache
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\LocadoraWpf.csproj.CopyComplete
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\LocadoraWpf.exe
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\LocadoraWpf.pdb
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf26_09\LocadoraWpf\obj\Debug\LocadoraWpf.Migrations.projetoatt.resources
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf27_09\LocadoraWpf\bin\Debug\LocadoraWpf.exe.config
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf27_09\LocadoraWpf\bin\Debug\LocadoraWpf.exe
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf27_09\LocadoraWpf\bin\Debug\LocadoraWpf.pdb
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf27_09\LocadoraWpf\bin\Debug\EntityFramework.dll
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf27_09\LocadoraWpf\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf27_09\LocadoraWpf\bin\Debug\MaterialDesignColors.dll
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf27_09\LocadoraWpf\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf27_09\LocadoraWpf\bin\Debug\EntityFramework.xml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf27_09\LocadoraWpf\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf27_09\LocadoraWpf\bin\Debug\MaterialDesignColors.pdb
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf27_09\LocadoraWpf\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf27_09\LocadoraWpf\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf27_09\LocadoraWpf\obj\Debug\Views\Controls\usAlugaCarro.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf27_09\LocadoraWpf\obj\Debug\Views\Controls\usAlugarMoto.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf27_09\LocadoraWpf\obj\Debug\Views\Controls\usAprovaReservaCarro.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf27_09\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarCarro.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf27_09\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarMoto.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf27_09\LocadoraWpf\obj\Debug\Views\Controls\usDevolucao.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf27_09\LocadoraWpf\obj\Debug\Views\Controls\usEditarCliente.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf27_09\LocadoraWpf\obj\Debug\Views\Controls\usHistoricoReserva.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf27_09\LocadoraWpf\obj\Debug\Views\Controls\usListaCliente.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf27_09\LocadoraWpf\obj\Debug\Views\Controls\usListarCarro.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf27_09\LocadoraWpf\obj\Debug\Views\Controls\usListarMoto.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf27_09\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCarro.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf27_09\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCliente.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf27_09\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaMoto.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf27_09\LocadoraWpf\obj\Debug\Views\Frm\frmCadCliente.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf27_09\LocadoraWpf\obj\Debug\Views\Frm\frmHome.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf27_09\LocadoraWpf\obj\Debug\Views\Frm\frmMenuAdm.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf27_09\LocadoraWpf\obj\Debug\Views\Frm\frmMenuCliente.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf27_09\LocadoraWpf\obj\Debug\Views\Frm\frmReservaCarro.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf27_09\LocadoraWpf\obj\Debug\Views\Frm\frmReservaMoto.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf27_09\LocadoraWpf\obj\Debug\App.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf27_09\LocadoraWpf\obj\Debug\LocadoraWpf_MarkupCompile.cache
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf27_09\LocadoraWpf\obj\Debug\LocadoraWpf_MarkupCompile.lref
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf27_09\LocadoraWpf\obj\Debug\App.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf27_09\LocadoraWpf\obj\Debug\Views\Controls\usAlugaCarro.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf27_09\LocadoraWpf\obj\Debug\Views\Controls\usAlugarMoto.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf27_09\LocadoraWpf\obj\Debug\Views\Controls\usAprovaReservaCarro.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf27_09\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarCarro.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf27_09\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarMoto.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf27_09\LocadoraWpf\obj\Debug\Views\Controls\usDevolucao.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf27_09\LocadoraWpf\obj\Debug\Views\Controls\usEditarCliente.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf27_09\LocadoraWpf\obj\Debug\Views\Controls\usHistoricoReserva.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf27_09\LocadoraWpf\obj\Debug\Views\Controls\usListaCliente.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf27_09\LocadoraWpf\obj\Debug\Views\Controls\usListarCarro.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf27_09\LocadoraWpf\obj\Debug\Views\Controls\usListarMoto.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf27_09\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCarro.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf27_09\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCliente.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf27_09\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaMoto.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf27_09\LocadoraWpf\obj\Debug\Views\Frm\frmCadCliente.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf27_09\LocadoraWpf\obj\Debug\Views\Frm\frmHome.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf27_09\LocadoraWpf\obj\Debug\Views\Frm\frmMenuAdm.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf27_09\LocadoraWpf\obj\Debug\Views\Frm\frmMenuCliente.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf27_09\LocadoraWpf\obj\Debug\Views\Frm\frmReservaCarro.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf27_09\LocadoraWpf\obj\Debug\Views\Frm\frmReservaMoto.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf27_09\LocadoraWpf\obj\Debug\LocadoraWpf.g.resources
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf27_09\LocadoraWpf\obj\Debug\LocadoraWpf.Properties.Resources.resources
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf27_09\LocadoraWpf\obj\Debug\LocadoraWpf.csproj.GenerateResource.cache
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf27_09\LocadoraWpf\obj\Debug\LocadoraWpf.csproj.CoreCompileInputs.cache
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf27_09\LocadoraWpf\obj\Debug\LocadoraWpf.csproj.CopyComplete
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf27_09\LocadoraWpf\obj\Debug\LocadoraWpf.exe
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf27_09\LocadoraWpf\obj\Debug\LocadoraWpf.pdb
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf27_09\LocadoraWpf\obj\Debug\LocadoraWpf.csprojAssemblyReference.cache
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf27_09\LocadoraWpf\obj\Debug\LocadoraWpf.Migrations.projetoatt.resources
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09\LocadoraWpf\bin\Debug\LocadoraWpf.exe.config
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09\LocadoraWpf\bin\Debug\LocadoraWpf.exe
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09\LocadoraWpf\bin\Debug\LocadoraWpf.pdb
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09\LocadoraWpf\bin\Debug\EntityFramework.dll
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09\LocadoraWpf\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09\LocadoraWpf\bin\Debug\MaterialDesignColors.dll
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09\LocadoraWpf\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09\LocadoraWpf\bin\Debug\EntityFramework.xml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09\LocadoraWpf\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09\LocadoraWpf\bin\Debug\MaterialDesignColors.pdb
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09\LocadoraWpf\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09\LocadoraWpf\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09\LocadoraWpf\obj\Debug\LocadoraWpf.csprojAssemblyReference.cache
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09\LocadoraWpf\obj\Debug\Views\Controls\usAlugaCarro.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09\LocadoraWpf\obj\Debug\Views\Controls\usAlugarMoto.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09\LocadoraWpf\obj\Debug\Views\Controls\usAprovaReservaCarro.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarCarro.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarMoto.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09\LocadoraWpf\obj\Debug\Views\Controls\usDevolucao.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09\LocadoraWpf\obj\Debug\Views\Controls\usEditarCliente.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09\LocadoraWpf\obj\Debug\Views\Controls\usHistoricoReserva.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09\LocadoraWpf\obj\Debug\Views\Controls\usListaCliente.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09\LocadoraWpf\obj\Debug\Views\Controls\usListarCarro.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09\LocadoraWpf\obj\Debug\Views\Controls\usListarMoto.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCarro.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCliente.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaMoto.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09\LocadoraWpf\obj\Debug\Views\Frm\frmCadCliente.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09\LocadoraWpf\obj\Debug\Views\Frm\frmHome.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09\LocadoraWpf\obj\Debug\Views\Frm\frmMenuAdm.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09\LocadoraWpf\obj\Debug\Views\Frm\frmMenuCliente.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09\LocadoraWpf\obj\Debug\Views\Frm\frmReservaCarro.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09\LocadoraWpf\obj\Debug\Views\Frm\frmReservaMoto.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09\LocadoraWpf\obj\Debug\App.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09\LocadoraWpf\obj\Debug\LocadoraWpf_MarkupCompile.cache
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09\LocadoraWpf\obj\Debug\LocadoraWpf_MarkupCompile.lref
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09\LocadoraWpf\obj\Debug\App.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09\LocadoraWpf\obj\Debug\Views\Controls\usAlugaCarro.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09\LocadoraWpf\obj\Debug\Views\Controls\usAlugarMoto.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09\LocadoraWpf\obj\Debug\Views\Controls\usAprovaReservaCarro.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarCarro.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarMoto.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09\LocadoraWpf\obj\Debug\Views\Controls\usDevolucao.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09\LocadoraWpf\obj\Debug\Views\Controls\usEditarCliente.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09\LocadoraWpf\obj\Debug\Views\Controls\usHistoricoReserva.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09\LocadoraWpf\obj\Debug\Views\Controls\usListaCliente.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09\LocadoraWpf\obj\Debug\Views\Controls\usListarCarro.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09\LocadoraWpf\obj\Debug\Views\Controls\usListarMoto.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCarro.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCliente.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaMoto.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09\LocadoraWpf\obj\Debug\Views\Frm\frmCadCliente.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09\LocadoraWpf\obj\Debug\Views\Frm\frmHome.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09\LocadoraWpf\obj\Debug\Views\Frm\frmMenuAdm.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09\LocadoraWpf\obj\Debug\Views\Frm\frmMenuCliente.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09\LocadoraWpf\obj\Debug\Views\Frm\frmReservaCarro.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09\LocadoraWpf\obj\Debug\Views\Frm\frmReservaMoto.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09\LocadoraWpf\obj\Debug\LocadoraWpf.g.resources
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09\LocadoraWpf\obj\Debug\LocadoraWpf.Migrations.projetoatt.resources
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09\LocadoraWpf\obj\Debug\LocadoraWpf.Properties.Resources.resources
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09\LocadoraWpf\obj\Debug\LocadoraWpf.csproj.GenerateResource.cache
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09\LocadoraWpf\obj\Debug\LocadoraWpf.csproj.CoreCompileInputs.cache
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09\LocadoraWpf\obj\Debug\LocadoraWpf.csproj.CopyComplete
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09\LocadoraWpf\obj\Debug\LocadoraWpf.exe
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09\LocadoraWpf\obj\Debug\LocadoraWpf.pdb
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09\LocadoraWpf\obj\Debug\LocadoraWpf.Migrations.projetodasdas.resources
+E:\LocadoraWpf29_09_2019\LocadoraWpf\bin\Debug\LocadoraWpf.exe.config
+E:\LocadoraWpf29_09_2019\LocadoraWpf\bin\Debug\LocadoraWpf.exe
+E:\LocadoraWpf29_09_2019\LocadoraWpf\bin\Debug\LocadoraWpf.pdb
+E:\LocadoraWpf29_09_2019\LocadoraWpf\bin\Debug\EntityFramework.dll
+E:\LocadoraWpf29_09_2019\LocadoraWpf\bin\Debug\EntityFramework.SqlServer.dll
+E:\LocadoraWpf29_09_2019\LocadoraWpf\bin\Debug\MaterialDesignColors.dll
+E:\LocadoraWpf29_09_2019\LocadoraWpf\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\LocadoraWpf29_09_2019\LocadoraWpf\bin\Debug\EntityFramework.xml
+E:\LocadoraWpf29_09_2019\LocadoraWpf\bin\Debug\EntityFramework.SqlServer.xml
+E:\LocadoraWpf29_09_2019\LocadoraWpf\bin\Debug\MaterialDesignColors.pdb
+E:\LocadoraWpf29_09_2019\LocadoraWpf\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\LocadoraWpf29_09_2019\LocadoraWpf\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\LocadoraWpf.csprojAssemblyReference.cache
+E:\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Controls\usAlugaCarro.g.cs
+E:\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Controls\usAlugarMoto.g.cs
+E:\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Controls\usAprovaReservaCarro.g.cs
+E:\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarCarro.g.cs
+E:\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarMoto.g.cs
+E:\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Controls\usDevolucao.g.cs
+E:\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Controls\usEditarCliente.g.cs
+E:\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Controls\usHistoricoReserva.g.cs
+E:\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Controls\usListaCliente.g.cs
+E:\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Controls\usListarCarro.g.cs
+E:\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Controls\usListarMoto.g.cs
+E:\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCarro.g.cs
+E:\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCliente.g.cs
+E:\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaMoto.g.cs
+E:\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Frm\frmCadCliente.g.cs
+E:\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Frm\frmHome.g.cs
+E:\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Frm\frmMenuAdm.g.cs
+E:\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Frm\frmMenuCliente.g.cs
+E:\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Frm\frmReservaCarro.g.cs
+E:\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Frm\frmReservaMoto.g.cs
+E:\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\App.g.cs
+E:\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\LocadoraWpf_MarkupCompile.cache
+E:\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\LocadoraWpf_MarkupCompile.lref
+E:\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\App.baml
+E:\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Controls\usAlugaCarro.baml
+E:\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Controls\usAlugarMoto.baml
+E:\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Controls\usAprovaReservaCarro.baml
+E:\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarCarro.baml
+E:\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarMoto.baml
+E:\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Controls\usDevolucao.baml
+E:\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Controls\usEditarCliente.baml
+E:\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Controls\usHistoricoReserva.baml
+E:\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Controls\usListaCliente.baml
+E:\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Controls\usListarCarro.baml
+E:\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Controls\usListarMoto.baml
+E:\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCarro.baml
+E:\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCliente.baml
+E:\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaMoto.baml
+E:\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Frm\frmCadCliente.baml
+E:\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Frm\frmHome.baml
+E:\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Frm\frmMenuAdm.baml
+E:\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Frm\frmMenuCliente.baml
+E:\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Frm\frmReservaCarro.baml
+E:\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Frm\frmReservaMoto.baml
+E:\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\LocadoraWpf.g.resources
+E:\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\LocadoraWpf.Properties.Resources.resources
+E:\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\LocadoraWpf.csproj.GenerateResource.cache
+E:\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\LocadoraWpf.csproj.CoreCompileInputs.cache
+E:\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\LocadoraWpf.csproj.CopyComplete
+E:\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\LocadoraWpf.exe
+E:\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\LocadoraWpf.pdb
+E:\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\LocadoraWpf.Migrations.projetoatt.resources
+C:\Users\User\Desktop\LocadoraWpf29_09_2019\LocadoraWpf\bin\Debug\LocadoraWpf.exe.config
+C:\Users\User\Desktop\LocadoraWpf29_09_2019\LocadoraWpf\bin\Debug\LocadoraWpf.exe
+C:\Users\User\Desktop\LocadoraWpf29_09_2019\LocadoraWpf\bin\Debug\LocadoraWpf.pdb
+C:\Users\User\Desktop\LocadoraWpf29_09_2019\LocadoraWpf\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\LocadoraWpf29_09_2019\LocadoraWpf\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\LocadoraWpf29_09_2019\LocadoraWpf\bin\Debug\MaterialDesignColors.dll
+C:\Users\User\Desktop\LocadoraWpf29_09_2019\LocadoraWpf\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\User\Desktop\LocadoraWpf29_09_2019\LocadoraWpf\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\LocadoraWpf29_09_2019\LocadoraWpf\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\LocadoraWpf29_09_2019\LocadoraWpf\bin\Debug\MaterialDesignColors.pdb
+C:\Users\User\Desktop\LocadoraWpf29_09_2019\LocadoraWpf\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\User\Desktop\LocadoraWpf29_09_2019\LocadoraWpf\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\User\Desktop\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\LocadoraWpf.csprojAssemblyReference.cache
+C:\Users\User\Desktop\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Controls\usAlugaCarro.g.cs
+C:\Users\User\Desktop\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Controls\usAlugarMoto.g.cs
+C:\Users\User\Desktop\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Controls\usAprovaReservaCarro.g.cs
+C:\Users\User\Desktop\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarCarro.g.cs
+C:\Users\User\Desktop\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarMoto.g.cs
+C:\Users\User\Desktop\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Controls\usDevolucao.g.cs
+C:\Users\User\Desktop\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Controls\usEditarCliente.g.cs
+C:\Users\User\Desktop\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Controls\usHistoricoReserva.g.cs
+C:\Users\User\Desktop\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Controls\usListaCliente.g.cs
+C:\Users\User\Desktop\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Controls\usListarCarro.g.cs
+C:\Users\User\Desktop\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Controls\usListarMoto.g.cs
+C:\Users\User\Desktop\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCarro.g.cs
+C:\Users\User\Desktop\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCliente.g.cs
+C:\Users\User\Desktop\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaMoto.g.cs
+C:\Users\User\Desktop\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Frm\frmCadCliente.g.cs
+C:\Users\User\Desktop\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Frm\frmHome.g.cs
+C:\Users\User\Desktop\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Frm\frmMenuAdm.g.cs
+C:\Users\User\Desktop\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Frm\frmMenuCliente.g.cs
+C:\Users\User\Desktop\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Frm\frmReservaCarro.g.cs
+C:\Users\User\Desktop\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Frm\frmReservaMoto.g.cs
+C:\Users\User\Desktop\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\App.g.cs
+C:\Users\User\Desktop\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\LocadoraWpf_MarkupCompile.cache
+C:\Users\User\Desktop\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\LocadoraWpf_MarkupCompile.lref
+C:\Users\User\Desktop\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\App.baml
+C:\Users\User\Desktop\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Controls\usAlugaCarro.baml
+C:\Users\User\Desktop\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Controls\usAlugarMoto.baml
+C:\Users\User\Desktop\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Controls\usAprovaReservaCarro.baml
+C:\Users\User\Desktop\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarCarro.baml
+C:\Users\User\Desktop\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarMoto.baml
+C:\Users\User\Desktop\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Controls\usDevolucao.baml
+C:\Users\User\Desktop\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Controls\usEditarCliente.baml
+C:\Users\User\Desktop\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Controls\usHistoricoReserva.baml
+C:\Users\User\Desktop\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Controls\usListaCliente.baml
+C:\Users\User\Desktop\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Controls\usListarCarro.baml
+C:\Users\User\Desktop\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Controls\usListarMoto.baml
+C:\Users\User\Desktop\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCarro.baml
+C:\Users\User\Desktop\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCliente.baml
+C:\Users\User\Desktop\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaMoto.baml
+C:\Users\User\Desktop\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Frm\frmCadCliente.baml
+C:\Users\User\Desktop\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Frm\frmHome.baml
+C:\Users\User\Desktop\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Frm\frmMenuAdm.baml
+C:\Users\User\Desktop\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Frm\frmMenuCliente.baml
+C:\Users\User\Desktop\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Frm\frmReservaCarro.baml
+C:\Users\User\Desktop\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Frm\frmReservaMoto.baml
+C:\Users\User\Desktop\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\LocadoraWpf.g.resources
+C:\Users\User\Desktop\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\LocadoraWpf.Properties.Resources.resources
+C:\Users\User\Desktop\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\LocadoraWpf.csproj.GenerateResource.cache
+C:\Users\User\Desktop\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\LocadoraWpf.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\LocadoraWpf.csproj.CopyComplete
+C:\Users\User\Desktop\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\LocadoraWpf.exe
+C:\Users\User\Desktop\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\LocadoraWpf.pdb
+C:\Users\User\Desktop\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\LocadoraWpf.Migrations.teste.resources
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09_2019\LocadoraWpf\bin\Debug\LocadoraWpf.exe.config
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09_2019\LocadoraWpf\bin\Debug\LocadoraWpf.exe
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09_2019\LocadoraWpf\bin\Debug\LocadoraWpf.pdb
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09_2019\LocadoraWpf\bin\Debug\EntityFramework.dll
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09_2019\LocadoraWpf\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09_2019\LocadoraWpf\bin\Debug\MaterialDesignColors.dll
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09_2019\LocadoraWpf\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09_2019\LocadoraWpf\bin\Debug\EntityFramework.xml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09_2019\LocadoraWpf\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09_2019\LocadoraWpf\bin\Debug\MaterialDesignColors.pdb
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09_2019\LocadoraWpf\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09_2019\LocadoraWpf\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\LocadoraWpf.csprojAssemblyReference.cache
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Controls\usAlugaCarro.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Controls\usAlugarMoto.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Controls\usAprovaReservaCarro.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarCarro.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarMoto.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Controls\usDevolucao.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Controls\usEditarCliente.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Controls\usHistoricoReserva.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Controls\usListaCliente.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Controls\usListarCarro.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Controls\usListarMoto.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCarro.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCliente.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaMoto.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Frm\frmCadCliente.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Frm\frmHome.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Frm\frmMenuAdm.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Frm\frmMenuCliente.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Frm\frmReservaCarro.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Frm\frmReservaMoto.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\App.g.cs
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\LocadoraWpf_MarkupCompile.cache
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\LocadoraWpf_MarkupCompile.lref
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\App.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Controls\usAlugaCarro.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Controls\usAlugarMoto.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Controls\usAprovaReservaCarro.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarCarro.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarMoto.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Controls\usDevolucao.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Controls\usEditarCliente.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Controls\usHistoricoReserva.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Controls\usListaCliente.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Controls\usListarCarro.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Controls\usListarMoto.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCarro.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCliente.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaMoto.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Frm\frmCadCliente.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Frm\frmHome.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Frm\frmMenuAdm.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Frm\frmMenuCliente.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Frm\frmReservaCarro.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\Views\Frm\frmReservaMoto.baml
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\LocadoraWpf.g.resources
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\LocadoraWpf.Properties.Resources.resources
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\LocadoraWpf.csproj.GenerateResource.cache
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\LocadoraWpf.csproj.CoreCompileInputs.cache
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\LocadoraWpf.csproj.CopyComplete
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\LocadoraWpf.exe
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\LocadoraWpf.pdb
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\LocadoraWpf.Migrations.projhetodasda.resources
+C:\Users\xandy\Desktop\New Project C#\LocadoraWpf29_09_2019\LocadoraWpf\obj\Debug\LocadoraWpf.Migrations.updasdas.resources
+C:\Users\Aluno\Desktop\LocadoraWpf30_09_2019_v1\LocadoraWpf\bin\Debug\LocadoraWpf.exe.config
+C:\Users\Aluno\Desktop\LocadoraWpf30_09_2019_v1\LocadoraWpf\bin\Debug\LocadoraWpf.exe
+C:\Users\Aluno\Desktop\LocadoraWpf30_09_2019_v1\LocadoraWpf\bin\Debug\LocadoraWpf.pdb
+C:\Users\Aluno\Desktop\LocadoraWpf30_09_2019_v1\LocadoraWpf\bin\Debug\EntityFramework.dll
+C:\Users\Aluno\Desktop\LocadoraWpf30_09_2019_v1\LocadoraWpf\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aluno\Desktop\LocadoraWpf30_09_2019_v1\LocadoraWpf\bin\Debug\MaterialDesignColors.dll
+C:\Users\Aluno\Desktop\LocadoraWpf30_09_2019_v1\LocadoraWpf\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Aluno\Desktop\LocadoraWpf30_09_2019_v1\LocadoraWpf\bin\Debug\EntityFramework.xml
+C:\Users\Aluno\Desktop\LocadoraWpf30_09_2019_v1\LocadoraWpf\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aluno\Desktop\LocadoraWpf30_09_2019_v1\LocadoraWpf\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Aluno\Desktop\LocadoraWpf30_09_2019_v1\LocadoraWpf\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Aluno\Desktop\LocadoraWpf30_09_2019_v1\LocadoraWpf\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Aluno\Desktop\LocadoraWpf30_09_2019_v1\LocadoraWpf\obj\Debug\LocadoraWpf.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\LocadoraWpf30_09_2019_v1\LocadoraWpf\obj\Debug\Views\Controls\usAlugaCarro.g.cs
+C:\Users\Aluno\Desktop\LocadoraWpf30_09_2019_v1\LocadoraWpf\obj\Debug\Views\Controls\usAlugarMoto.g.cs
+C:\Users\Aluno\Desktop\LocadoraWpf30_09_2019_v1\LocadoraWpf\obj\Debug\Views\Controls\usAprovaReservaCarro.g.cs
+C:\Users\Aluno\Desktop\LocadoraWpf30_09_2019_v1\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarCarro.g.cs
+C:\Users\Aluno\Desktop\LocadoraWpf30_09_2019_v1\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarMoto.g.cs
+C:\Users\Aluno\Desktop\LocadoraWpf30_09_2019_v1\LocadoraWpf\obj\Debug\Views\Controls\usDevolucao.g.cs
+C:\Users\Aluno\Desktop\LocadoraWpf30_09_2019_v1\LocadoraWpf\obj\Debug\Views\Controls\usEditarCliente.g.cs
+C:\Users\Aluno\Desktop\LocadoraWpf30_09_2019_v1\LocadoraWpf\obj\Debug\Views\Controls\usHistoricoReserva.g.cs
+C:\Users\Aluno\Desktop\LocadoraWpf30_09_2019_v1\LocadoraWpf\obj\Debug\Views\Controls\usListaCliente.g.cs
+C:\Users\Aluno\Desktop\LocadoraWpf30_09_2019_v1\LocadoraWpf\obj\Debug\Views\Controls\usListarCarro.g.cs
+C:\Users\Aluno\Desktop\LocadoraWpf30_09_2019_v1\LocadoraWpf\obj\Debug\Views\Controls\usListarMoto.g.cs
+C:\Users\Aluno\Desktop\LocadoraWpf30_09_2019_v1\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCarro.g.cs
+C:\Users\Aluno\Desktop\LocadoraWpf30_09_2019_v1\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCliente.g.cs
+C:\Users\Aluno\Desktop\LocadoraWpf30_09_2019_v1\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaMoto.g.cs
+C:\Users\Aluno\Desktop\LocadoraWpf30_09_2019_v1\LocadoraWpf\obj\Debug\Views\Frm\frmCadCliente.g.cs
+C:\Users\Aluno\Desktop\LocadoraWpf30_09_2019_v1\LocadoraWpf\obj\Debug\Views\Frm\frmHome.g.cs
+C:\Users\Aluno\Desktop\LocadoraWpf30_09_2019_v1\LocadoraWpf\obj\Debug\Views\Frm\frmMenuAdm.g.cs
+C:\Users\Aluno\Desktop\LocadoraWpf30_09_2019_v1\LocadoraWpf\obj\Debug\Views\Frm\frmMenuCliente.g.cs
+C:\Users\Aluno\Desktop\LocadoraWpf30_09_2019_v1\LocadoraWpf\obj\Debug\Views\Frm\frmReservaCarro.g.cs
+C:\Users\Aluno\Desktop\LocadoraWpf30_09_2019_v1\LocadoraWpf\obj\Debug\Views\Frm\frmReservaMoto.g.cs
+C:\Users\Aluno\Desktop\LocadoraWpf30_09_2019_v1\LocadoraWpf\obj\Debug\App.g.cs
+C:\Users\Aluno\Desktop\LocadoraWpf30_09_2019_v1\LocadoraWpf\obj\Debug\LocadoraWpf_MarkupCompile.cache
+C:\Users\Aluno\Desktop\LocadoraWpf30_09_2019_v1\LocadoraWpf\obj\Debug\LocadoraWpf_MarkupCompile.lref
+C:\Users\Aluno\Desktop\LocadoraWpf30_09_2019_v1\LocadoraWpf\obj\Debug\App.baml
+C:\Users\Aluno\Desktop\LocadoraWpf30_09_2019_v1\LocadoraWpf\obj\Debug\Views\Controls\usAlugaCarro.baml
+C:\Users\Aluno\Desktop\LocadoraWpf30_09_2019_v1\LocadoraWpf\obj\Debug\Views\Controls\usAlugarMoto.baml
+C:\Users\Aluno\Desktop\LocadoraWpf30_09_2019_v1\LocadoraWpf\obj\Debug\Views\Controls\usAprovaReservaCarro.baml
+C:\Users\Aluno\Desktop\LocadoraWpf30_09_2019_v1\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarCarro.baml
+C:\Users\Aluno\Desktop\LocadoraWpf30_09_2019_v1\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarMoto.baml
+C:\Users\Aluno\Desktop\LocadoraWpf30_09_2019_v1\LocadoraWpf\obj\Debug\Views\Controls\usDevolucao.baml
+C:\Users\Aluno\Desktop\LocadoraWpf30_09_2019_v1\LocadoraWpf\obj\Debug\Views\Controls\usEditarCliente.baml
+C:\Users\Aluno\Desktop\LocadoraWpf30_09_2019_v1\LocadoraWpf\obj\Debug\Views\Controls\usHistoricoReserva.baml
+C:\Users\Aluno\Desktop\LocadoraWpf30_09_2019_v1\LocadoraWpf\obj\Debug\Views\Controls\usListaCliente.baml
+C:\Users\Aluno\Desktop\LocadoraWpf30_09_2019_v1\LocadoraWpf\obj\Debug\Views\Controls\usListarCarro.baml
+C:\Users\Aluno\Desktop\LocadoraWpf30_09_2019_v1\LocadoraWpf\obj\Debug\Views\Controls\usListarMoto.baml
+C:\Users\Aluno\Desktop\LocadoraWpf30_09_2019_v1\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCarro.baml
+C:\Users\Aluno\Desktop\LocadoraWpf30_09_2019_v1\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCliente.baml
+C:\Users\Aluno\Desktop\LocadoraWpf30_09_2019_v1\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaMoto.baml
+C:\Users\Aluno\Desktop\LocadoraWpf30_09_2019_v1\LocadoraWpf\obj\Debug\Views\Frm\frmCadCliente.baml
+C:\Users\Aluno\Desktop\LocadoraWpf30_09_2019_v1\LocadoraWpf\obj\Debug\Views\Frm\frmHome.baml
+C:\Users\Aluno\Desktop\LocadoraWpf30_09_2019_v1\LocadoraWpf\obj\Debug\Views\Frm\frmMenuAdm.baml
+C:\Users\Aluno\Desktop\LocadoraWpf30_09_2019_v1\LocadoraWpf\obj\Debug\Views\Frm\frmMenuCliente.baml
+C:\Users\Aluno\Desktop\LocadoraWpf30_09_2019_v1\LocadoraWpf\obj\Debug\Views\Frm\frmReservaCarro.baml
+C:\Users\Aluno\Desktop\LocadoraWpf30_09_2019_v1\LocadoraWpf\obj\Debug\Views\Frm\frmReservaMoto.baml
+C:\Users\Aluno\Desktop\LocadoraWpf30_09_2019_v1\LocadoraWpf\obj\Debug\LocadoraWpf.g.resources
+C:\Users\Aluno\Desktop\LocadoraWpf30_09_2019_v1\LocadoraWpf\obj\Debug\LocadoraWpf.Properties.Resources.resources
+C:\Users\Aluno\Desktop\LocadoraWpf30_09_2019_v1\LocadoraWpf\obj\Debug\LocadoraWpf.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\LocadoraWpf30_09_2019_v1\LocadoraWpf\obj\Debug\LocadoraWpf.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\LocadoraWpf30_09_2019_v1\LocadoraWpf\obj\Debug\LocadoraWpf.csproj.CopyComplete
+C:\Users\Aluno\Desktop\LocadoraWpf30_09_2019_v1\LocadoraWpf\obj\Debug\LocadoraWpf.exe
+C:\Users\Aluno\Desktop\LocadoraWpf30_09_2019_v1\LocadoraWpf\obj\Debug\LocadoraWpf.pdb
+C:\Users\Aluno\Desktop\LocadoraWpf30_09_2019_v1\LocadoraWpf\obj\Debug\LocadoraWpf.Migrations.inicio.resources
+C:\Users\Aluno\Desktop\LocadoraVeículosWpf\LocadoraWpf\bin\Debug\LocadoraWpf.exe.config
+C:\Users\Aluno\Desktop\LocadoraVeículosWpf\LocadoraWpf\bin\Debug\LocadoraWpf.exe
+C:\Users\Aluno\Desktop\LocadoraVeículosWpf\LocadoraWpf\bin\Debug\LocadoraWpf.pdb
+C:\Users\Aluno\Desktop\LocadoraVeículosWpf\LocadoraWpf\bin\Debug\EntityFramework.dll
+C:\Users\Aluno\Desktop\LocadoraVeículosWpf\LocadoraWpf\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aluno\Desktop\LocadoraVeículosWpf\LocadoraWpf\bin\Debug\MaterialDesignColors.dll
+C:\Users\Aluno\Desktop\LocadoraVeículosWpf\LocadoraWpf\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Aluno\Desktop\LocadoraVeículosWpf\LocadoraWpf\bin\Debug\EntityFramework.xml
+C:\Users\Aluno\Desktop\LocadoraVeículosWpf\LocadoraWpf\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aluno\Desktop\LocadoraVeículosWpf\LocadoraWpf\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Aluno\Desktop\LocadoraVeículosWpf\LocadoraWpf\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Aluno\Desktop\LocadoraVeículosWpf\LocadoraWpf\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Aluno\Desktop\LocadoraVeículosWpf\LocadoraWpf\obj\Debug\LocadoraWpf.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\LocadoraVeículosWpf\LocadoraWpf\obj\Debug\Views\Controls\usAlugaCarro.g.cs
+C:\Users\Aluno\Desktop\LocadoraVeículosWpf\LocadoraWpf\obj\Debug\Views\Controls\usAlugarMoto.g.cs
+C:\Users\Aluno\Desktop\LocadoraVeículosWpf\LocadoraWpf\obj\Debug\Views\Controls\usAprovaReservaCarro.g.cs
+C:\Users\Aluno\Desktop\LocadoraVeículosWpf\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarCarro.g.cs
+C:\Users\Aluno\Desktop\LocadoraVeículosWpf\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarMoto.g.cs
+C:\Users\Aluno\Desktop\LocadoraVeículosWpf\LocadoraWpf\obj\Debug\Views\Controls\usDevolucao.g.cs
+C:\Users\Aluno\Desktop\LocadoraVeículosWpf\LocadoraWpf\obj\Debug\Views\Controls\usEditarCliente.g.cs
+C:\Users\Aluno\Desktop\LocadoraVeículosWpf\LocadoraWpf\obj\Debug\Views\Controls\usHistoricoReserva.g.cs
+C:\Users\Aluno\Desktop\LocadoraVeículosWpf\LocadoraWpf\obj\Debug\Views\Controls\usListaCliente.g.cs
+C:\Users\Aluno\Desktop\LocadoraVeículosWpf\LocadoraWpf\obj\Debug\Views\Controls\usListarCarro.g.cs
+C:\Users\Aluno\Desktop\LocadoraVeículosWpf\LocadoraWpf\obj\Debug\Views\Controls\usListarMoto.g.cs
+C:\Users\Aluno\Desktop\LocadoraVeículosWpf\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCarro.g.cs
+C:\Users\Aluno\Desktop\LocadoraVeículosWpf\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCliente.g.cs
+C:\Users\Aluno\Desktop\LocadoraVeículosWpf\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaMoto.g.cs
+C:\Users\Aluno\Desktop\LocadoraVeículosWpf\LocadoraWpf\obj\Debug\Views\Frm\frmCadCliente.g.cs
+C:\Users\Aluno\Desktop\LocadoraVeículosWpf\LocadoraWpf\obj\Debug\Views\Frm\frmHome.g.cs
+C:\Users\Aluno\Desktop\LocadoraVeículosWpf\LocadoraWpf\obj\Debug\Views\Frm\frmMenuAdm.g.cs
+C:\Users\Aluno\Desktop\LocadoraVeículosWpf\LocadoraWpf\obj\Debug\Views\Frm\frmMenuCliente.g.cs
+C:\Users\Aluno\Desktop\LocadoraVeículosWpf\LocadoraWpf\obj\Debug\Views\Frm\frmReservaCarro.g.cs
+C:\Users\Aluno\Desktop\LocadoraVeículosWpf\LocadoraWpf\obj\Debug\Views\Frm\frmReservaMoto.g.cs
+C:\Users\Aluno\Desktop\LocadoraVeículosWpf\LocadoraWpf\obj\Debug\App.g.cs
+C:\Users\Aluno\Desktop\LocadoraVeículosWpf\LocadoraWpf\obj\Debug\LocadoraWpf_MarkupCompile.cache
+C:\Users\Aluno\Desktop\LocadoraVeículosWpf\LocadoraWpf\obj\Debug\LocadoraWpf_MarkupCompile.lref
+C:\Users\Aluno\Desktop\LocadoraVeículosWpf\LocadoraWpf\obj\Debug\App.baml
+C:\Users\Aluno\Desktop\LocadoraVeículosWpf\LocadoraWpf\obj\Debug\Views\Controls\usAlugaCarro.baml
+C:\Users\Aluno\Desktop\LocadoraVeículosWpf\LocadoraWpf\obj\Debug\Views\Controls\usAlugarMoto.baml
+C:\Users\Aluno\Desktop\LocadoraVeículosWpf\LocadoraWpf\obj\Debug\Views\Controls\usAprovaReservaCarro.baml
+C:\Users\Aluno\Desktop\LocadoraVeículosWpf\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarCarro.baml
+C:\Users\Aluno\Desktop\LocadoraVeículosWpf\LocadoraWpf\obj\Debug\Views\Controls\usCadastrarMoto.baml
+C:\Users\Aluno\Desktop\LocadoraVeículosWpf\LocadoraWpf\obj\Debug\Views\Controls\usDevolucao.baml
+C:\Users\Aluno\Desktop\LocadoraVeículosWpf\LocadoraWpf\obj\Debug\Views\Controls\usEditarCliente.baml
+C:\Users\Aluno\Desktop\LocadoraVeículosWpf\LocadoraWpf\obj\Debug\Views\Controls\usHistoricoReserva.baml
+C:\Users\Aluno\Desktop\LocadoraVeículosWpf\LocadoraWpf\obj\Debug\Views\Controls\usListaCliente.baml
+C:\Users\Aluno\Desktop\LocadoraVeículosWpf\LocadoraWpf\obj\Debug\Views\Controls\usListarCarro.baml
+C:\Users\Aluno\Desktop\LocadoraVeículosWpf\LocadoraWpf\obj\Debug\Views\Controls\usListarMoto.baml
+C:\Users\Aluno\Desktop\LocadoraVeículosWpf\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCarro.baml
+C:\Users\Aluno\Desktop\LocadoraVeículosWpf\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaCliente.baml
+C:\Users\Aluno\Desktop\LocadoraVeículosWpf\LocadoraWpf\obj\Debug\Views\Frm\frmAdmEditaMoto.baml
+C:\Users\Aluno\Desktop\LocadoraVeículosWpf\LocadoraWpf\obj\Debug\Views\Frm\frmCadCliente.baml
+C:\Users\Aluno\Desktop\LocadoraVeículosWpf\LocadoraWpf\obj\Debug\Views\Frm\frmHome.baml
+C:\Users\Aluno\Desktop\LocadoraVeículosWpf\LocadoraWpf\obj\Debug\Views\Frm\frmMenuAdm.baml
+C:\Users\Aluno\Desktop\LocadoraVeículosWpf\LocadoraWpf\obj\Debug\Views\Frm\frmMenuCliente.baml
+C:\Users\Aluno\Desktop\LocadoraVeículosWpf\LocadoraWpf\obj\Debug\Views\Frm\frmReservaCarro.baml
+C:\Users\Aluno\Desktop\LocadoraVeículosWpf\LocadoraWpf\obj\Debug\Views\Frm\frmReservaMoto.baml
+C:\Users\Aluno\Desktop\LocadoraVeículosWpf\LocadoraWpf\obj\Debug\LocadoraWpf.g.resources
+C:\Users\Aluno\Desktop\LocadoraVeículosWpf\LocadoraWpf\obj\Debug\LocadoraWpf.Migrations.inicio.resources
+C:\Users\Aluno\Desktop\LocadoraVeículosWpf\LocadoraWpf\obj\Debug\LocadoraWpf.Properties.Resources.resources
+C:\Users\Aluno\Desktop\LocadoraVeículosWpf\LocadoraWpf\obj\Debug\LocadoraWpf.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\LocadoraVeículosWpf\LocadoraWpf\obj\Debug\LocadoraWpf.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\LocadoraVeículosWpf\LocadoraWpf\obj\Debug\LocadoraWpf.csproj.CopyComplete
+C:\Users\Aluno\Desktop\LocadoraVeículosWpf\LocadoraWpf\obj\Debug\LocadoraWpf.exe
+C:\Users\Aluno\Desktop\LocadoraVeículosWpf\LocadoraWpf\obj\Debug\LocadoraWpf.pdb
